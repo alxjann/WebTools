@@ -1,0 +1,54 @@
+html {
+    font-family: Arial;
+}
+a {
+    text-decoration: none;
+}
+.title-name{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.item-decoder{
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(36, 172, 235);
+    border: none;
+    height: 50px;
+    width: 280px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border-radius: 30px;
+    transition: 0.25s;
+    margin-bottom: 10px;
+}
+
+.item-decoder:hover{
+    cursor: pointer;
+    opacity: 60%;
+    height: 70px;
+    width: 300px;
+}
+
+.tool-2{
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(36, 172, 235);
+    border: none;
+    height: 50px;
+    width: 280px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border-radius: 30px;
+    transition: 0.25s;
+}
+
+.tool-2:hover{
+    cursor: pointer;
+    opacity: 60%;
+    height: 70px;
+    width: 300px;
+}

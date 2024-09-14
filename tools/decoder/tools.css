@@ -1,0 +1,37 @@
+html {
+    font-family: Arial;
+}
+
+.decoder-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.gtUploadButton{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+    background-color: rgb(36, 172, 235);
+    color: white;
+    border: none;
+    height: 50px;
+    width: 150px;
+    border-radius: 30px;
+    transition: 0.25s;
+}
+
+.gtUploadButton:hover{
+    background-color: white;
+    color: rgb(36, 172, 235);
+    border-color:rgb(36, 172, 235);
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+}
+
+input[type="file"]{
+    display: none;
+}
