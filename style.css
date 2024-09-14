@@ -53,8 +53,13 @@ a {
     width: 300px;
 }
 
-@media (max-width: 500px){
+@media (max-width: 515px){
     .title-name{
+        text-align: center;
+        font-weight: bold;
+        font-size: 40px;
+    }
+    .decoder-title{
         text-align: center;
         font-weight: bold;
         font-size: 40px;
