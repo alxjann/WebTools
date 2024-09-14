@@ -52,3 +52,11 @@ a {
     height: 70px;
     width: 300px;
 }
+
+@media (max-width: 500px){
+    .title-name{
+        text-align: center;
+        font-weight: bold;
+        font-size: 40px;
+    }
+}
