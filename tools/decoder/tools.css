@@ -2,12 +2,6 @@ html {
     font-family: Arial;
 }
 
-.decoder-title{
-    text-align: center;
-    font-weight: bold;
-    font-size: 60px;
-}
-
 .gtUploadButton{
     display: block;
     margin: 0 auto;
