@@ -32,7 +32,7 @@ h1{
     width: 300px;
 }
 
-.tool-2{
+.games{
     display: block;
     margin: 0 auto;
     background-color: rgb(36, 172, 235);
@@ -46,7 +46,7 @@ h1{
     transition: 0.25s;
 }
 
-.tool-2:hover{
+.games:hover{
     cursor: pointer;
     opacity: 60%;
     height: 70px;
